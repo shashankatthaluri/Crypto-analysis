@@ -1,4 +1,4 @@
-# Crypto-analysis
+# Crypto-analysis-and-future-prediction
 In this study, we'll examine statistics on four well-known cryptocurrencies (btc, eth, bnb, xrp) from Yahoo Finance.
 Pandas will be used to extract, analyse, and visualise the data as well as to identify risks based on past performance.
 
